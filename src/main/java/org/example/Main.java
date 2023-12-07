@@ -1,7 +1,8 @@
-package java;
+package org.example;
+
 import java.util.Scanner;
 
-public class SimpleWalletApp {
+public class Main {
     private static WalletUser currentUser;
 
     public static void main(String[] args) {
@@ -145,6 +146,7 @@ public class SimpleWalletApp {
             System.out.println("Solde insuffisant.");
         }
     }
+
+
+
 }
-
-

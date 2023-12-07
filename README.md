@@ -20,11 +20,7 @@ WalletApp est une application simple de gestion de portefeuille en Java.
     javac SimpleWalletApp.class
     ```
 
-2. **Exécution :** Après la compilation, lancez le programme avec la commande :
-
-    ```bash
-    java SimpleWalletApp.java
-    ```
+2. **Exécution : tout ce que vous avez à faire est de lancer la classe Main
 
 3. **Suivez les instructions à l'écran :** Le programme vous guidera pour créer un compte, vous connecter et effectuer des opérations de portefeuille.
 

@@ -4,23 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cbcc3e6-7efe-4db7-8648-5915bd16f657" name="Changes" comment="" />
+    <list default="true" id="2ab94172-f487-4ba3-b93b-6fe42d385180" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleWalletApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WalletUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/format.sh" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="2ZAGFP1GmFrvtR24rD8OCbf66TL" />
+  <component name="ProjectId" id="2ZD3887OrwRc1ROhYzAhATGmyoY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,41 +33,50 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/herilala/Bureau/HEI/Prog5/walet",
+    "git-widget-placeholder": "feature/java",
+    "last_opened_file_path": "/home/herilala/Bureau/HEI/Prog5/wallet/src/main/java/org/example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="SimpleWalletApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleWalletApp" />
-      <module name="walet" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="wallet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleWalletApp" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2cbcc3e6-7efe-4db7-8648-5915bd16f657" name="Changes" comment="" />
-      <created>1701857365396</created>
+      <changelist id="2ab94172-f487-4ba3-b93b-6fe42d385180" name="Changes" comment="" />
+      <created>1701942663570</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1701857365396</updated>
-      <workItem from="1701857366550" duration="6355000" />
+      <updated>1701942663570</updated>
+      <workItem from="1701942664613" duration="637000" />
     </task>
     <servers />
   </component>
